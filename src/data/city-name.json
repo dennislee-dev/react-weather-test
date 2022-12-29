@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ottawa",
+        "latitude": "45.424721",
+        "longitude": "-75.695000"
+    },
+    {
+        "name": "Moscow",
+        "latitude": "55.751244",
+        "longitude": "37.618423"
+    },
+    {
+        "name": "Tokyo",
+        "latitude": "35.652832",
+        "longitude": "139.839478"
+    }
+]
